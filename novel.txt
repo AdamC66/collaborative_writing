@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 He didn't know why they were there... but they were. 
+=======
+He didn't know why they were there... but they were.
+
+This was the third time that he had seen them, in the same day.
+>>>>>>> 046cdd05cde3dace85b53e41eb01b83d10fd9c9a
